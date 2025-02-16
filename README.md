@@ -3,8 +3,7 @@
 Projeto com a ONG Casa do Léo - Sistema de Cadastro dos Doadores
 
 Projeto que consistia no desenvolvimento de um sistema para a ONG Casa do Léo, capaz de simplificar e otimizar o
-registro e gerenciamento de doadores, gerando um relatório de cadastro, opções de doação e gerenciamento de
-voluntários.
+registro e gerenciamento de doadores, opções de doação e gerenciamento de voluntários.
 
 ● Realização de pesquisas sobre o perfil dos doadores;
 
